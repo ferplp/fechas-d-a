@@ -1,2 +1,2 @@
-# fechas-d-a
+# fechasCalculadora
 Ejercicio de calculadora de fechas.
