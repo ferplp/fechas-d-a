@@ -1,0 +1,11 @@
+body{
+    background-image:url(assets/img/fondo-papel.jpg);
+    background-size: cover;
+    background-position: 100%;
+    background-repeat: repeat-y;
+}
+.altura-min {
+    min-height: 35rem;
+    background: #d09797;
+    opacity: 50%;
+}
